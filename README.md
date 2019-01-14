@@ -1,1 +1,1 @@
-# composer_package_tag
+* Composer-compatible library with versioning *
