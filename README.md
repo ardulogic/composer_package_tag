@@ -1,1 +1,1 @@
-* Composer-compatible library with versioning *
+**Composer-compatible library with versioning**
